@@ -2,7 +2,7 @@
 <h3 align="center">A polymath in Data, Mathematics & Computer Science</h3>
 <img align="right" alt="Coding" width="400" src="[https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif](https://giphy.com/gifs/glitch-matrix-cat-wwg1suUiTbCY8H8vIA)">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eltonjohn-oketch&label=Profile%20views&color=0e75b6&style=flat" alt="eltonjohn-oketch" /> </p>
+<p align="left"> <img src="<iframe src="https://giphy.com/gifs/glitch-matrix-cat-wwg1suUiTbCY8H8vIA" alt="eltonjohn-oketch" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Eltonjohn-Oketch](https://github.com/Eltonjohn-Oketch)
 
