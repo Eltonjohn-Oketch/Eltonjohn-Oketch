@@ -20,7 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eltonjohn-oketch&show_icons=true&locale=en&layout=compact" alt="eltonjohn-oketch" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eltonjohn-oketch&show_icons=true&&theme=merko" alt="eltonjohn-oketch" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eltonjohn-oketch&" alt="eltonjohn-oketch" /></p>
 
