@@ -23,3 +23,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eltonjohn-oketch&show_icons=true&&theme=merko" alt="eltonjohn-oketch" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eltonjohn-oketch&" alt="eltonjohn-oketch" /></p>
+
+## My Github Stats
+
+<div style="display: flex;">
+    <div style="width: 50%;">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=eltonjohn-oketch&theme=gotham" />
+    </div>
+    <div style="width: 50%;">
+        <img src="https://github-readme-stats.vercel.app/api?username=eltonjohn-oketch&theme=gotham&custom_title=eltonjohn-oketch%20github%20stats" />
+    </div>
+</div>
+
