@@ -1,4 +1,4 @@
-<h1 align="left">Hi there 👋,Eltonjohn Oketch</h1>
+<h1 align="left">Hi there 👋, I'm Eltonjohn Oketch</h1>
 <h3 align="left">A polymath in Data, Mathematics & Computer Science</h3>
 <img align="right" alt="Coding" width="200" src="giphy (1).gif">
 
