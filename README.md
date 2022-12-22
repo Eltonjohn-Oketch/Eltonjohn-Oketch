@@ -21,9 +21,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eltonjohn-oketch&show_icons=true&locale=en&layout=compact" alt="eltonjohn-oketch" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eltonjohn-oketch&" alt="eltonjohn-oketch" /></p>
-
-## My Github Stats
+## Github Stats
 
 <div style="display: flex;">
     <div style="width: 50%;">
