@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eltonjohn Oketch</h1>
 <h3 align="center">A polymath in Data, Mathematics & Computer Science</h3>
-<img align="right" alt="Coding" width="300" src="giphy (1).gif">
+<img align="right" alt="Coding" width="250" src="giphy (1).gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eltonjohn-oketch&label=Profile%20views&color=0e75b6&style=flat" alt="eltonjohn-oketch" /> </p>
 
@@ -20,6 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eltonjohn-oketch&show_icons=true&locale=en&layout=compact" alt="eltonjohn-oketch" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eltonjohn-oketch&show_icons=true&locale=en" alt="eltonjohn-oketch" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eltonjohn-oketch&show_icons=true&&theme=merko" alt="eltonjohn-oketch" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eltonjohn-oketch&" alt="eltonjohn-oketch" /></p>
