@@ -1,11 +1,7 @@
-
-
 <img align="right" alt="Coding" width="190" src="giphy (1).gif">
 <h3 align="left">A polymath in Data, Mathematics & Computer Science</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eltonjohn-oketch&label=Profile%20views&color=0e75b6&style=flat" alt="eltonjohn-oketch" /> </p>
 I am interested in assigning weights & biases on seemingly arbitrary sequences so as to pivot an effort into predicting a probable outcome. In so doing I arraign variable importance onto choices or features that regressively compound into a predictable focuss. Its a fancy way of admitting that i am into 'Fortune Telling'.my skills can be leveraged towards market research, policy formation, problem-solving, decision-making, and business insights.
-
-
 - 💬 Ask me about the weather & i'll refer you to a 'model'.
 - 📫 How to reach me eltonjohnoketch@gmail.com.
 - ⚡ Fun fact I know there is tranquility in entropy.
