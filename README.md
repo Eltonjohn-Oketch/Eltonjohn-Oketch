@@ -7,7 +7,7 @@ I am interested in assigning weights & biases on seemingly arbitrary sequences t
 
 - Ask me about the weather & i'll refer you to a 'model'.
 - How to reach me eltonjohnoketch@gmail.com.
-- Fun fact I know there is tranquility in entropy.
+- Fun fact, **I know there is tranquility in entropy.**
 
 <p align="left">
 </p>
