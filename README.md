@@ -4,6 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eltonjohn-oketch&label=Profile%20views&color=0e75b6&style=flat" alt="eltonjohn-oketch" /> </p>
 
+I am a polymath in data and all things Mathematics and Computer Science, using data to make a ding in the universe. I have professional certifications in data science, data analysis, statistical analysis, predictive modeling, and machine learning. All my skills can be leveraged towards analysis, graphing, tabling of market research, policy formation, problem-solving, decision-making, and business insights.
 
 - 💬 Ask me about **information technology and the role that mathematics plays towards the advancement of that field**
 - 📫 How to reach me **eltonjohnoketch@gmail.com**
