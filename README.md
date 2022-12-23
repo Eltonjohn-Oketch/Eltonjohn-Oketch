@@ -1,7 +1,9 @@
 
 <h3 align="left">A polymath in Data, Mathematics & Computer Science</h3>
 <img align="right" alt="Coding" width="190" src="giphy (1).gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eltonjohn-oketch&label=Profile%20views&color=0e75b6&style=flat" alt="eltonjohn-oketch" /> </p>
+
 - 💬 Ask me about **information technology and the role that mathematics plays towards the advancement of the technological field**
 - 📫 How to reach me **eltonjohnoketch@gmail.com**
 - ⚡ Fun fact **I know there is tranquility in entropy.**
