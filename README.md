@@ -6,9 +6,7 @@
 
 
 - 💬 Ask me about **information technology and the role that mathematics plays towards the advancement of that field**
-
 - 📫 How to reach me **eltonjohnoketch@gmail.com**
-
 - ⚡ Fun fact **I know there is tranquility in entropy.**
 
 <p align="left">
