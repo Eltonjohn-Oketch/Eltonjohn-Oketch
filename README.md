@@ -6,9 +6,9 @@
 
 I am a data/computer scientist with professional certifications data & statistical analysis, predictive modeling, machine & deep learning. All my skills can be leveraged towards analysis, graphing, tabling of market research, policy formation, problem-solving, decision-making, and business insights.
 
-- 💬 Ask me about **how assigning weights & biases on seemingly arbitrary sequences can pivot an effort into predicting a probable outcome**
-- 📫 How to reach me **eltonjohnoketch@gmail.com**
-- ⚡ Fun fact **I know there is tranquility in entropy.**
+- 💬 Ask me about how assigning weights & biases on seemingly arbitrary sequences can pivot an effort into predicting a probable outcome.
+- 📫 How to reach me eltonjohnoketch@gmail.com.
+- ⚡ Fun fact I know there is tranquility in entropy.
 
 <p align="left">
 </p>
